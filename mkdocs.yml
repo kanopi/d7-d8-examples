@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: D7 to D8 Examples
+pages:
+- Home: index.md
+- 'Front End': front-end/index.md
+- 'Back End': back-end/index.md
+- 'Site Building': site-building/index.md
+- 'Miscelleneous': misc/index.md
+- Contributing: contributing.md
