@@ -1,0 +1,94 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/front-end/", 
+            "text": "Front End", 
+            "title": "Front End"
+        }, 
+        {
+            "location": "/front-end/#front-end", 
+            "text": "", 
+            "title": "Front End"
+        }, 
+        {
+            "location": "/back-end/", 
+            "text": "Back End Development", 
+            "title": "Back End"
+        }, 
+        {
+            "location": "/back-end/#back-end-development", 
+            "text": "", 
+            "title": "Back End Development"
+        }, 
+        {
+            "location": "/site-building/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Site Building"
+        }, 
+        {
+            "location": "/site-building/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/site-building/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/site-building/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/misc/", 
+            "text": "Miscellaneous\n\n\nThis section is for tips \n tricks that don't make it in the other sections.", 
+            "title": "Miscelleneous"
+        }, 
+        {
+            "location": "/misc/#miscellaneous", 
+            "text": "This section is for tips   tricks that don't make it in the other sections.", 
+            "title": "Miscellaneous"
+        }, 
+        {
+            "location": "/contributing/", 
+            "text": "Contributing\n\n\nIf you find specific items that are helpful in your journey that \nwould help others or tips feel free to let us know and contribute to the repo.\n\n\nSubmitting a new issue for help\n\n\nCan't find what you are looking for, \nsubmit an issue\n for things you think should be included.\n\n\nAdding an example to show\n\n\nIf you'd like to help in the fight take a moment and \ncreate a pullrequest\n.", 
+            "title": "Contributing"
+        }, 
+        {
+            "location": "/contributing/#contributing", 
+            "text": "If you find specific items that are helpful in your journey that \nwould help others or tips feel free to let us know and contribute to the repo.", 
+            "title": "Contributing"
+        }, 
+        {
+            "location": "/contributing/#submitting-a-new-issue-for-help", 
+            "text": "Can't find what you are looking for,  submit an issue  for things you think should be included.", 
+            "title": "Submitting a new issue for help"
+        }, 
+        {
+            "location": "/contributing/#adding-an-example-to-show", 
+            "text": "If you'd like to help in the fight take a moment and  create a pullrequest .", 
+            "title": "Adding an example to show"
+        }
+    ]
+}
