@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+![Drupal 8 Logo](images/drupal_8_logo.png)
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+# D7 to D8 Examples
 
-## Commands
+The following document is used as a way help people who are interested in exploring Drupal 8 and what is involved in upgrading Drupal 7.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+The goal of this is to show examples and to help with getting over the large hurtle of starting to develop for Drupal 8.
